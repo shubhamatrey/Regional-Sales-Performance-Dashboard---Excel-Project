@@ -59,5 +59,7 @@ This project is an Excel-based dashboard designed to monitor and evaluate the sa
 
 ---
 
-Thank you for using the Regional Sales Performance Dashboard! [https://github.com/shubhamatrey/Regional-Sales-Performance-Dashboard---Excel-Project/issues/1#issue-3045552590]
+Thank you for using the Regional Sales Performance Dashboard!
+
+dashboard preview [(https://github.com/shubhamatrey/Regional-Sales-Performance-Dashboard---Excel-Project/issues/1#issue-3045552590) ]
 
