@@ -1,5 +1,7 @@
 # Regional Sales Performance Dashboard
 
+![Screenshot 2025-05-07 160355](https://github.com/user-attachments/assets/25adf8ef-85ea-42cb-8e2f-26d04bf7f5f2)
+
 This project is an Excel-based dashboard designed to monitor and evaluate the sales performance of various sales executives across multiple regions. It provides actionable insights through interactive visuals and comprehensive data representation.
 
 ## Features
